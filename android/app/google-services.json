@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1099205068544",
+    "project_id": "coloristtt-aabc1",
+    "storage_bucket": "coloristtt-aabc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099205068544:android:b6a85ad9d847a29b19d5e5",
+        "android_client_info": {
+          "package_name": "com.cloristtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LVKfN1Uagp081Ps2qLkDezKDbKmkiPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099205068544:android:b7ab161bc97a724019d5e5",
+        "android_client_info": {
+          "package_name": "com.example.colorist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LVKfN1Uagp081Ps2qLkDezKDbKmkiPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
