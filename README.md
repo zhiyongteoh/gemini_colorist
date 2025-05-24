@@ -1,1 +1,3 @@
-# gemini_colorist
+# colorist
+
+A new Flutter project.
